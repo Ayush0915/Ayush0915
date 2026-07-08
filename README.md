@@ -8,7 +8,7 @@
 - 👨‍💻 Projects: [ayushkr-bhadani.vercel.app](https://ayushkr-bhadani.vercel.app/)
 - 📩 Reach me: **ayushbhadani0915@gmail.com**
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ayushkr-bhadani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkr-bhadani/)
 
 ---
 
