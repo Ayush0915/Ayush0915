@@ -1,6 +1,7 @@
-# Hey there 👋, I'm Ayush
+# Hi, I'm Ayush Kumar Bhadani 👋
+### Software Engineer | Backend & AI/ML
 
-### Building AI/ML systems that go beyond notebooks — agents, RAG, and real APIs
+### Building production-ready AI applications, backend systems, and developer tools using LLMs, RAG, FastAPI, and modern software engineering practices.
 
 - 🎓 CS undergrad passionate about **agentic AI**, **RAG systems**, and **applied ML**
 - 🚀 Focused on **performance**, **clean pipelines**, and shipping things that actually run
