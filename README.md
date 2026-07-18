@@ -77,12 +77,12 @@ Personal site built with Next.js, TypeScript, and Tailwind CSS, featuring a 3D G
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush0915&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Ayush0915&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=Ayush0915&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0915&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ayush0915&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
