@@ -94,15 +94,7 @@ Personal site built with Next.js, TypeScript, and Tailwind CSS, featuring a 3D G
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush0915&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ayush0915&style=for-the-badge&color=0e75b6"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ayush0915&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
